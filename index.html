@@ -74,11 +74,9 @@ else if (data.weather[0].main === "Snow") {
 else if (data.weather[0].main === "Mist") {
     document.querySelector(".weather-icon").src = "images/mist.png";
 } 
-else if (data.weather[0].main === "Thunderstorm") {
-    document.querySelector(".weather-icon").src = "images/storm.png"; // you don't have storm.png, so add one if needed
-} 
+
 else {
-    document.querySelector(".weather-icon").src = "images/search.png"; // default/fallback
+    document.querySelector(".weather-icon").src = "images/search.png"; // defaul image
 }
 
         
