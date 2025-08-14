@@ -116,3 +116,9 @@ body {
 .weather{
     display: none
 }
+.error{
+    display: none;
+    color: red;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
