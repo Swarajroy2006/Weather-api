@@ -1,0 +1,8 @@
+# Ignore config with API key
+config.js
+
+# Ignore all images
+images/
+# OS junk
+.DS_Store
+Thumbs.db
