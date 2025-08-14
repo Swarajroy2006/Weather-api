@@ -35,7 +35,7 @@ body {
 .header {
     margin-bottom: 30px;
     font-weight: 600;
-    color: white;
+    color: rgb(123, 113, 113);
     letter-spacing: 1px;
     text-align: center;
 }
@@ -49,7 +49,7 @@ body {
 .header p {
     font-size: 0.9rem;
     font-weight: 400;
-    color: rgba(255, 255, 255, 0.85);
+    color: rgba(6, 6, 6, 0.85);
     max-width: 80%;
     margin: 0 auto;
     line-height: 1.4;
